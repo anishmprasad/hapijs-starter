@@ -1,23 +1,23 @@
 {
-  "name": "hapijs-ssr-starter-kit",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
-  "scripts": {
-    "start": "node server.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/anishmprasad/hapijs-ssr-starter-kit.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/anishmprasad/hapijs-ssr-starter-kit/issues"
-  },
-  "homepage": "https://github.com/anishmprasad/hapijs-ssr-starter-kit#readme",
-  "dependencies": {
-    "@hapi/hapi": "^19.0.4",
-    "nodemon": "^2.0.2"
-  }
+	"name": "hapijs-ssr-starter-kit",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/anishmprasad/hapijs-ssr-starter-kit.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/anishmprasad/hapijs-ssr-starter-kit/issues"
+	},
+	"homepage": "https://github.com/anishmprasad/hapijs-ssr-starter-kit#readme",
+	"dependencies": {
+		"@hapi/hapi": "^19.0.4",
+		"nodemon": "^2.0.2"
+	}
 }
